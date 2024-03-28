@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Create a new project folder and connect it to a GitHub repository. Initialize your project with a README.md that has a brief description of the purpose of this assignment, along with the title "jQuery Drills".
 Create an index.html file and an app.js file and link the two together.
 Create a script tag in the index.html and link to the jQuery CDN.
@@ -23,3 +24,6 @@ jQuery click method: https://api.jquery.com/click/
 Math.random() can be used to generate a random number
 RGB colors range from rgb(0, 0, 0) for black to rgb(255, 255, 255) for white
 You will want to generate 3 random numbers between 0 and 255 and set the RGB values using jQuery
+=======
+
+>>>>>>> 44a158e7eb5b3bf6b579305da87a3d382e373c45
